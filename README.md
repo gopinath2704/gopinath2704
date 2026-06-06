@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gopinath. B</h1>
+<h1 align="center">Hi 👋, I'm Gopinath</h1>
 <h3 align="center">A passionate cyber engineer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio.gopihero713.workers.dev/](https://portfolio.gopihero713.workers.dev/)
